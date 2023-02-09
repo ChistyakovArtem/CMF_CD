@@ -15,19 +15,35 @@ My work on a project "Credit derivatives and their application: introduction to 
 2) Forex - api.exchangerate.host; DXY (dollar price) - https://www.wsj.com/market-data/quotes/index/DXY/historical-prices
 3) Different countries 1 year bonds rates
 https://www.investing.com/rates-bonds/uk-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/indonesia-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/philippines-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/u.s.-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/china-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/brazil-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/south-korea-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/france-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/germany-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/india-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/canada-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/australia-1-year-bond-yield-historical-data
+
 https://www.investing.com/rates-bonds/japan-1-year-bond-yield-historical-data
+
 4) Stock Indices
+
 https://www.macrotrends.net/charts/stock-indexes
+
 Bloomberg wants me to pay :(
+
 https://www.statista.com/statistics/270126/largest-stock-exchange-operators-by-market-capitalization-of-listed-companies
