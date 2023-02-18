@@ -2,7 +2,7 @@
 My work on a project "Credit derivatives and their application: introduction to the macro credit markets" in the Center of Mathematical Finances.
 
 # Results
-- Made a **Low Frequency pair trading** using data from multiple sources with **Sharpe ratio = 1.45** from 2019-01-01 to 2021-12-30.
+- Made a **Low Frequency pair trading** using data from multiple sources with **Sharpe ratio = 1.45** and **APY = 22%** from 2019-01-01 to 2021-12-30.
 
 # Strategy description
 - I use a lot of **external data** to predict the return of 3 CDS (Itraxx Main, Itraxx Crossover and CDX_IG) and 2 Equity Indexed (SnP 500 and Euro Stoxx). The **correlation with return** was respectively (0.28, 0.26, 0.07, -0.01, 0.25).
